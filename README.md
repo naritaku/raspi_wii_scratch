@@ -21,11 +21,11 @@ A,B,UP,DOWN,LEFT,RIGHT,PLUS,MINUS,1,2
 ## How to use ? /使い方
 ### What does need to use it ?　/何が必要なの？
 ####Hardware/ハードウェア
-RaspberryPi
-Bluetooth dongle
-Wiimote
+RaspberryPi  
+Bluetooth dongle  
+Wiimote  
 ####Software/ソフトウェア
-scratchpy https://github.com/pilliq/scratchpy
+scratchpy https://github.com/pilliq/scratchpy  
 wiimote https://github.com/the-raspberry-pi-guy/Wiimote  
 
 ## Install
