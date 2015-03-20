@@ -2,7 +2,7 @@
 
 ====
 
-##What cam it do?/なにができるの？
+##What can it do?/なにができるの？
 
 It can connect Scratch and Wiimote and send 11 buttons state of Wiimote to Scratch.  
   
@@ -29,7 +29,6 @@ scratchpy https://github.com/pilliq/scratchpy
 wiimote https://github.com/the-raspberry-pi-guy/Wiimote  
 
 ## Install
-
-
+日本語版のみWordにまとめています
 ## Licence
 [MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
