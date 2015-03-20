@@ -29,6 +29,8 @@ scratchpy https://github.com/pilliq/scratchpy
 wiimote https://github.com/the-raspberry-pi-guy/Wiimote  
 
 ## Install
-日本語版のみWordにまとめています
+comming soon
+  動画作成中
+
 ## Licence
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+[MIT]
