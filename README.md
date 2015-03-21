@@ -29,8 +29,9 @@ scratchpy https://github.com/pilliq/scratchpy
 wiimote https://github.com/the-raspberry-pi-guy/Wiimote  
 
 ## Install
-comming soon
-  動画作成中
+Please watch this movie.
+動画を見てください
+[youtube]http://youtu.be/K89Kw8oFFoM
 
 ## Licence
 [MIT]
